@@ -1,0 +1,1 @@
+{"version":3,"sources":["app/fx.cljs"],"mappings":";AAIA,AAAA,AAACA,AACO,AAAKC;AAAL,AACE,AAACC,AAAKD;;AACN,AAACE,AAAQF","names":["re-frame.core/reg-fx","x","cljs.core/tap>","cljs.core.println"],"sourcesContent":["(ns app.fx\n  (:require\n   [re-frame.core :refer [reg-fx]]))\n\n(reg-fx :some-fx-example\n        (fn [x]\n          (tap> x)\n          (println x)))\n"]}

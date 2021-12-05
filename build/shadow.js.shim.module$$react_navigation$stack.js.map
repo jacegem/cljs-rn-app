@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"shadow.js.shim.module$$react_navigation$stack.js",
+"lineCount":5,
+"mappings":"AAAAA,IAAA,CAAKC,OAAL,CAAa,+CAAb,CAAA;AACAD,IAAA,CAAKC,OAAL,CAAa,sDAAb,CAAA;AACAC,MAAA,CAAOC,EAAP,CAAUC,IAAV,CAAeC,8BAAf,GAAgDC,OAAA,CAAQ,yBAAR,CAAhD;AACAC,oDAAA,CAAqDC,OAArD,GAA+DN,MAA/D,CAAsEC,EAAtE,CAAyEC,IAAzE,CAA8EC,8BAA9E;;",
+"sources":["shadow.js.shim.module$$react_navigation$stack.js"],
+"sourcesContent":["goog.provide(\"shadow.js.shim.module$$react_navigation$stack\");\ngoog.provide(\"module$shadow_js_shim_module$$react_navigation$stack\");\nshadow.js.shim.module$$react_navigation$stack = require(\"@react-navigation/stack\");\nmodule$shadow_js_shim_module$$react_navigation$stack.default = shadow.js.shim.module$$react_navigation$stack;\n"],
+"names":["goog","provide","shadow","js","shim","module$$react_navigation$stack","require","module$shadow_js_shim_module$$react_navigation$stack","default"]
+}

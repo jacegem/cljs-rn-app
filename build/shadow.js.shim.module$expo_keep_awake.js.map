@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"shadow.js.shim.module$expo_keep_awake.js",
+"lineCount":5,
+"mappings":"AAAAA,IAAA,CAAKC,OAAL,CAAa,uCAAb,CAAA;AACAD,IAAA,CAAKC,OAAL,CAAa,8CAAb,CAAA;AACAC,MAAA,CAAOC,EAAP,CAAUC,IAAV,CAAeC,sBAAf,GAAwCC,OAAA,CAAQ,iBAAR,CAAxC;AACAC,4CAAA,CAA6CC,OAA7C,GAAuDN,MAAvD,CAA8DC,EAA9D,CAAiEC,IAAjE,CAAsEC,sBAAtE;;",
+"sources":["shadow.js.shim.module$expo_keep_awake.js"],
+"sourcesContent":["goog.provide(\"shadow.js.shim.module$expo_keep_awake\");\ngoog.provide(\"module$shadow_js_shim_module$expo_keep_awake\");\nshadow.js.shim.module$expo_keep_awake = require(\"expo-keep-awake\");\nmodule$shadow_js_shim_module$expo_keep_awake.default = shadow.js.shim.module$expo_keep_awake;\n"],
+"names":["goog","provide","shadow","js","shim","module$expo_keep_awake","require","module$shadow_js_shim_module$expo_keep_awake","default"]
+}

@@ -1,0 +1,9 @@
+{
+"version":3,
+"file":"shadow.js.shim.module$tailwind_rn.js",
+"lineCount":5,
+"mappings":"AAAAA,IAAA,CAAKC,OAAL,CAAa,mCAAb,CAAA;AACAD,IAAA,CAAKC,OAAL,CAAa,0CAAb,CAAA;AACAC,MAAA,CAAOC,EAAP,CAAUC,IAAV,CAAeC,kBAAf,GAAoCC,OAAA,CAAQ,aAAR,CAApC;AACAC,wCAAA,CAAyCC,OAAzC,GAAmDN,MAAnD,CAA0DC,EAA1D,CAA6DC,IAA7D,CAAkEC,kBAAlE;;",
+"sources":["shadow.js.shim.module$tailwind_rn.js"],
+"sourcesContent":["goog.provide(\"shadow.js.shim.module$tailwind_rn\");\ngoog.provide(\"module$shadow_js_shim_module$tailwind_rn\");\nshadow.js.shim.module$tailwind_rn = require(\"tailwind-rn\");\nmodule$shadow_js_shim_module$tailwind_rn.default = shadow.js.shim.module$tailwind_rn;\n"],
+"names":["goog","provide","shadow","js","shim","module$tailwind_rn","require","module$shadow_js_shim_module$tailwind_rn","default"]
+}
