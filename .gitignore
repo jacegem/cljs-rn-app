@@ -1,0 +1,9 @@
+.calva/
+.clj-kondo/
+.cpcache/
+.expo/
+.lsp/
+.shadow-cljs/
+.vscode/
+node_modules/
+build/
